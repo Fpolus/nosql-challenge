@@ -79,7 +79,3 @@ There are a total of 55 establishments with a hygiene score of 0 across various 
 The results of these analyses were presented in the Jupyter Notebook using Pandas DataFrames and were also displayed as Markdown cells in the document.
 
 ---
-
-# Acknowledgments
-
-I would like to acknowledge the various resources that contributed to the completion of this assignment. I made use of a range of learning materials, including class resources and online references, which collectively aided me in successfully finishing this project.
